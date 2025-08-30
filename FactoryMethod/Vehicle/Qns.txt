@@ -1,0 +1,15 @@
+System should support Car,bike, bus
+each vehicle must implement a drive() methodf
+use factory method to create a vehicle based on runtime
+
+
+
+task
+deife a vehicle with inteface drive()
+implement car bike and bus 
+implemet a vehiclefactory  class that return the corrrect object
+in main() take input cat bike bus and return and call drive
+
+
+/// Run cmd from root dir
+java FactoryMethod.Vehicle.VehicleFactory
