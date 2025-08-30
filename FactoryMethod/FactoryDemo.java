@@ -1,5 +1,3 @@
-package FactoryMethod;
-
 abstract class Notification {
     abstract void notifyUser();
     String msg; // Common message field for derived classes
