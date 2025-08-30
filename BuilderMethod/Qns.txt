@@ -1,0 +1,10 @@
+Pizza order system
+\
+A pizza have dough sauce and toppings
+Allow flexible combination(thin crust, tomato sauce, cheese)
+Use builder patern to implement pizza
+
+task
+Create a Pizza class with attr : doubh,souce,topping
+Implement PizzaBuilder class with setDough(),setswouce() addToppings()
+Build a custom pizza in main() and print detaile
