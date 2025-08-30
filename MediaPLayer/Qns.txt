@@ -1,0 +1,13 @@
+Play both mp4 and mp 3
+existing mp3Player can only play mp3Playera new mp4player is available but have playmp4 interface
+use adapter to integrate into ur Media interface
+
+
+
+
+
+task
+define Media interdace with play(filename)
+Implement mp3player normaly
+Wrap mp4player usomng media adapter 
+test with both mp3and mp4
