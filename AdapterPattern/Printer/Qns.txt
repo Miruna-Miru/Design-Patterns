@@ -1,0 +1,2 @@
+YOU have older printer class with printText(String) and a new system expects printDocument(Doucument) use 
+adapter pattern so it wprks with it 
