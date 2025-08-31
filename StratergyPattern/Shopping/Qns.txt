@@ -1,0 +1,10 @@
+Shopping checkout system applies discount in different ways. Discount change at runtime
+
+task
+Define a DiscountStratergy interface with a method apply(double amt)
+Omplement 
+NoDiscount->Return same amout
+PercentageDiscount->Reduce some %
+Flaat->Reduce a fixed amt
+Create a CheckoutClass that accepts a DiscountStratergy and calculates the final bill
+In main(), show paying 100 with all three Stratergy
